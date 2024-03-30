@@ -1,2 +1,2 @@
-# pwa-portal-app
+# Hiptech Portal App PWA
 Hiptech portal app in PWA
